@@ -7,7 +7,7 @@
 //
 
 #import "TestProjekt1AppDelegate.h"
-#import "TestProjekt1ViewController.h"
+#import "MainNavigationController.h"
 
 @implementation TestProjekt1AppDelegate
 

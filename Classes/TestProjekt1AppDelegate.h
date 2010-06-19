@@ -8,15 +8,15 @@
 
 #import <UIKit/UIKit.h>
 
-@class TestProjekt1ViewController;
+@class MainNavigationController;
 
 @interface TestProjekt1AppDelegate : NSObject <UIApplicationDelegate> {
     UIWindow *window;
-    TestProjekt1ViewController *viewController;
+    MainNavigationController *viewController;
 }
 
 @property (nonatomic, retain) IBOutlet UIWindow *window;
-@property (nonatomic, retain) IBOutlet TestProjekt1ViewController *viewController;
+@property (nonatomic, retain) IBOutlet MainNavigationController *viewController;
 
 @end
 

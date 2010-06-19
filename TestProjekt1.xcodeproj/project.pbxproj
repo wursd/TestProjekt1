@@ -15,6 +15,9 @@
 		2899E5220DE3E06400AC0155 /* TestProjekt1ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2899E5210DE3E06400AC0155 /* TestProjekt1ViewController.xib */; };
 		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
 		28D7ACF80DDB3853001CB0EB /* TestProjekt1ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D7ACF70DDB3853001CB0EB /* TestProjekt1ViewController.m */; };
+		A010643411CD463800FA1E51 /* MainNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = A010643311CD463800FA1E51 /* MainNavigationController.m */; };
+		A010645D11CD488700FA1E51 /* TestSub.m in Sources */ = {isa = PBXBuildFile; fileRef = A010645B11CD488700FA1E51 /* TestSub.m */; };
+		A010645E11CD488700FA1E51 /* TestSub.xib in Resources */ = {isa = PBXBuildFile; fileRef = A010645C11CD488700FA1E51 /* TestSub.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +34,11 @@
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		32CA4F630368D1EE00C91783 /* TestProjekt1_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestProjekt1_Prefix.pch; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* TestProjekt1-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "TestProjekt1-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		A010643211CD463800FA1E51 /* MainNavigationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MainNavigationController.h; path = ../MainNavigationController.h; sourceTree = "<group>"; };
+		A010643311CD463800FA1E51 /* MainNavigationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MainNavigationController.m; path = ../MainNavigationController.m; sourceTree = "<group>"; };
+		A010645A11CD488700FA1E51 /* TestSub.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestSub.h; sourceTree = "<group>"; };
+		A010645B11CD488700FA1E51 /* TestSub.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestSub.m; sourceTree = "<group>"; };
+		A010645C11CD488700FA1E51 /* TestSub.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TestSub.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -50,10 +58,15 @@
 		080E96DDFE201D6D7F000001 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				A010643211CD463800FA1E51 /* MainNavigationController.h */,
+				A010643311CD463800FA1E51 /* MainNavigationController.m */,
 				1D3623240D0F684500981E51 /* TestProjekt1AppDelegate.h */,
 				1D3623250D0F684500981E51 /* TestProjekt1AppDelegate.m */,
 				28D7ACF60DDB3853001CB0EB /* TestProjekt1ViewController.h */,
 				28D7ACF70DDB3853001CB0EB /* TestProjekt1ViewController.m */,
+				A010645A11CD488700FA1E51 /* TestSub.h */,
+				A010645B11CD488700FA1E51 /* TestSub.m */,
+				A010645C11CD488700FA1E51 /* TestSub.xib */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -151,6 +164,7 @@
 			files = (
 				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
 				2899E5220DE3E06400AC0155 /* TestProjekt1ViewController.xib in Resources */,
+				A010645E11CD488700FA1E51 /* TestSub.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -164,6 +178,8 @@
 				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
 				1D3623260D0F684500981E51 /* TestProjekt1AppDelegate.m in Sources */,
 				28D7ACF80DDB3853001CB0EB /* TestProjekt1ViewController.m in Sources */,
+				A010643411CD463800FA1E51 /* MainNavigationController.m in Sources */,
+				A010645D11CD488700FA1E51 /* TestSub.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
