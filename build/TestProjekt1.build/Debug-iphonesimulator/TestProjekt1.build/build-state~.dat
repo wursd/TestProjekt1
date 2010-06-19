@@ -1,258 +1,0 @@
-TTestProjekt1
-v7
-r0
-t298665177.097152
-cCheck dependencies
-cProcessInfoPlistFile /Users/lucas/Documents/TestProjekt1/build/Debug-iphonesimulator/TestProjekt1.app/Info.plist TestProjekt1-Info.plist
-cCompileXIB /Users/lucas/Documents/TestProjekt1/MainWindow.xib
-cCompileXIB /Users/lucas/Documents/TestProjekt1/TestProjekt1ViewController.xib
-cProcessPCH /var/folders/66/66ZThk93F64EARjVB3Atpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProjekt1_Prefix-aueefswzyrimupegljxqqdmsflpb/TestProjekt1_Prefix.pch.gch TestProjekt1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/TestProjekt1.build/Debug-iphonesimulator/TestProjekt1.build/Objects-normal/i386/main.o /Users/lucas/Documents/TestProjekt1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/TestProjekt1.build/Debug-iphonesimulator/TestProjekt1.build/Objects-normal/i386/TestProjekt1AppDelegate.o /Users/lucas/Documents/TestProjekt1/Classes/TestProjekt1AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/TestProjekt1.build/Debug-iphonesimulator/TestProjekt1.build/Objects-normal/i386/TestProjekt1ViewController.o /Users/lucas/Documents/TestProjekt1/Classes/TestProjekt1ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/lucas/Documents/TestProjekt1/build/Debug-iphonesimulator/TestProjekt1.app/TestProjekt1 normal i386
-cGenerateDSYMFile /Users/lucas/Documents/TestProjekt1/build/Debug-iphonesimulator/TestProjekt1.app.dSYM /Users/lucas/Documents/TestProjekt1/build/Debug-iphonesimulator/TestProjekt1.app/TestProjekt1
-cTouch /Users/lucas/Documents/TestProjekt1/build/Debug-iphonesimulator/TestProjekt1.app
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
-c000000004B69B45C00000000000000EE
-t1265218652
-s238
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004B2B4CC3000000000026EE30
-t1261128899
-s2551344
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004B2B4DC8000000000027E880
-t1261129160
-s2615424
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004B2B4DAE0000000000001355
-t1261129134
-s4949
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004B2B61620000000000000788
-t1261134178
-s1928
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004B2B62B500000000016721E0
-t1261134517
-s23536096
-
-N/Users/lucas/Documents/TestProjekt1/Classes/TestProjekt1AppDelegate.h
-c000000004C1D0D4100000000000001FA
-t1276972353
-s506
-i<UIKit/UIKit.h>
-
-N/Users/lucas/Documents/TestProjekt1/Classes/TestProjekt1AppDelegate.m
-c000000004C1D0D4100000000000002B9
-t1276972353
-s697
-i"TestProjekt1AppDelegate.h"
-i"TestProjekt1ViewController.h"
-
-N/Users/lucas/Documents/TestProjekt1/Classes/TestProjekt1ViewController.h
-c000000004C1D0D4100000000000000FA
-t1276972353
-s250
-i<UIKit/UIKit.h>
-
-N/Users/lucas/Documents/TestProjekt1/Classes/TestProjekt1ViewController.m
-c000000004C1D0D4100000000000005CA
-t1276972353
-s1482
-i"TestProjekt1ViewController.h"
-
-N/Users/lucas/Documents/TestProjekt1/MainWindow.xib
-c000000004C1D0D410000000000002683
-t1276972353
-s9859
-
-N/Users/lucas/Documents/TestProjekt1/TestProjekt1ViewController.xib
-c000000004C1D0D410000000000001A59
-t1276972353
-s6745
-
-N/Users/lucas/Documents/TestProjekt1/TestProjekt1_Prefix.pch
-c000000004C1D0D4100000000000000C1
-t1276972353
-s193
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/lucas/Documents/TestProjekt1/build/Debug-iphonesimulator/TestProjekt1.app
-t1276972377
-s238
-
-N/Users/lucas/Documents/TestProjekt1/build/Debug-iphonesimulator/TestProjekt1.app.dSYM
-t1276972377
-s102
-
-N/Users/lucas/Documents/TestProjekt1/build/Debug-iphonesimulator/TestProjekt1.app/Info.plist
-t1276972373
-s613
-
-N/Users/lucas/Documents/TestProjekt1/build/Debug-iphonesimulator/TestProjekt1.app/MainWindow.nib
-t1276972375
-s1520
-
-N/Users/lucas/Documents/TestProjekt1/build/Debug-iphonesimulator/TestProjekt1.app/PkgInfo
-t1276972373
-s8
-
-N/Users/lucas/Documents/TestProjekt1/build/Debug-iphonesimulator/TestProjekt1.app/TestProjekt1
-t1276972377
-s19552
-
-N/Users/lucas/Documents/TestProjekt1/build/Debug-iphonesimulator/TestProjekt1.app/TestProjekt1ViewController.nib
-t1276972375
-s1151
-
-N/Users/lucas/Documents/TestProjekt1/build/TestProjekt1.build/Debug-iphonesimulator/TestProjekt1.build/Objects-normal/i386/TestProjekt1.LinkFileList
-c000000004C1D0D5500000000000001AC
-t1276972373
-s428
-
-N/Users/lucas/Documents/TestProjekt1/build/TestProjekt1.build/Debug-iphonesimulator/TestProjekt1.build/Objects-normal/i386/TestProjekt1AppDelegate.o
-t1276972376
-s38236
-
-N/Users/lucas/Documents/TestProjekt1/build/TestProjekt1.build/Debug-iphonesimulator/TestProjekt1.build/Objects-normal/i386/TestProjekt1ViewController.o
-t1276972376
-s30000
-
-N/Users/lucas/Documents/TestProjekt1/build/TestProjekt1.build/Debug-iphonesimulator/TestProjekt1.build/Objects-normal/i386/main.o
-t1276972376
-s5944
-
-N/Users/lucas/Documents/TestProjekt1/main.m
-c000000004C1D0D41000000000000016B
-t1276972353
-s363
-i<UIKit/UIKit.h>
-
-N/var/folders/66/66ZThk93F64EARjVB3Atpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProjekt1_Prefix-aueefswzyrimupegljxqqdmsflpb/TestProjekt1_Prefix.pch.gch
-t1276972376
-s13026768
-
-NTestProjekt1-Info.plist
-c000000004C1D0D41000000000000038D
-t1276972353
-s909
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies298665173#298665173#0(0"0(0#1#0"4300911832#0"0#
-
-CCompileC build/TestProjekt1.build/Debug-iphonesimulator/TestProjekt1.build/Objects-normal/i386/TestProjekt1AppDelegate.o /Users/lucas/Documents/TestProjekt1/Classes/TestProjekt1AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s298665176.655297
-e298665176.727870
-r1
-xCompileC
-xbuild/TestProjekt1.build/Debug-iphonesimulator/TestProjekt1.build/Objects-normal/i386/TestProjekt1AppDelegate.o
-x/Users/lucas/Documents/TestProjekt1/Classes/TestProjekt1AppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@77"Compile /Users/lucas/Documents/TestProjekt1/Classes/TestProjekt1AppDelegate.m298665176#298665176#0(0"0(0#0#69"/Users/lucas/Documents/TestProjekt1/Classes/TestProjekt1AppDelegate.m4300911832#1972"    cd /Users/lucas/Documents/TestProjekt1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/lucas/Documents/TestProjekt1/build/TestProjekt1.build/Debug-iphonesimulator/TestProjekt1.build/TestProjekt1-generated-files.hmap -I/Users/lucas/Documents/TestProjekt1/build/TestProjekt1.build/Debug-iphonesimulator/TestProjekt1.build/TestProjekt1-own-target-headers.hmap -I/Users/lucas/Documents/TestProjekt1/build/TestProjekt1.build/Debug-iphonesimulator/TestProjekt1.build/TestProjekt1-all-target-headers.hmap -iquote /Users/lucas/Documents/TestProjekt1/build/TestProjekt1.build/Debug-iphonesimulator/TestProjekt1.build/TestProjekt1-project-headers.hmap -F/Users/lucas/Documents/TestProjekt1/build/Debug-iphonesimulator -I/Users/lucas/Documents/TestProjekt1/build/Debug-iphonesimulator/include -I/Users/lucas/Documents/TestProjekt1/build/TestProjekt1.build/Debug-iphonesimulator/TestProjekt1.build/DerivedSources/i386 -I/Users/lucas/Documents/TestProjekt1/build/TestProjekt1.build/Debug-iphonesimulator/TestProjekt1.build/DerivedSources -include /var/folders/66/66ZThk93F64EARjVB3Atpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProjekt1_Prefix-aueefswzyrimupegljxqqdmsflpb/TestProjekt1_Prefix.pch -c /Users/lucas/Documents/TestProjekt1/Classes/TestProjekt1AppDelegate.m -o /Users/lucas/Documents/TestProjekt1/build/TestProjekt1.build/Debug-iphonesimulator/TestProjekt1.build/Objects-normal/i386/TestProjekt1AppDelegate.o0#
-
-CCompileC build/TestProjekt1.build/Debug-iphonesimulator/TestProjekt1.build/Objects-normal/i386/TestProjekt1ViewController.o /Users/lucas/Documents/TestProjekt1/Classes/TestProjekt1ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s298665176.721960
-e298665176.776539
-r1
-xCompileC
-xbuild/TestProjekt1.build/Debug-iphonesimulator/TestProjekt1.build/Objects-normal/i386/TestProjekt1ViewController.o
-x/Users/lucas/Documents/TestProjekt1/Classes/TestProjekt1ViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@80"Compile /Users/lucas/Documents/TestProjekt1/Classes/TestProjekt1ViewController.m298665176#298665176#0(0"0(0#0#72"/Users/lucas/Documents/TestProjekt1/Classes/TestProjekt1ViewController.m4300911832#1978"    cd /Users/lucas/Documents/TestProjekt1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/lucas/Documents/TestProjekt1/build/TestProjekt1.build/Debug-iphonesimulator/TestProjekt1.build/TestProjekt1-generated-files.hmap -I/Users/lucas/Documents/TestProjekt1/build/TestProjekt1.build/Debug-iphonesimulator/TestProjekt1.build/TestProjekt1-own-target-headers.hmap -I/Users/lucas/Documents/TestProjekt1/build/TestProjekt1.build/Debug-iphonesimulator/TestProjekt1.build/TestProjekt1-all-target-headers.hmap -iquote /Users/lucas/Documents/TestProjekt1/build/TestProjekt1.build/Debug-iphonesimulator/TestProjekt1.build/TestProjekt1-project-headers.hmap -F/Users/lucas/Documents/TestProjekt1/build/Debug-iphonesimulator -I/Users/lucas/Documents/TestProjekt1/build/Debug-iphonesimulator/include -I/Users/lucas/Documents/TestProjekt1/build/TestProjekt1.build/Debug-iphonesimulator/TestProjekt1.build/DerivedSources/i386 -I/Users/lucas/Documents/TestProjekt1/build/TestProjekt1.build/Debug-iphonesimulator/TestProjekt1.build/DerivedSources -include /var/folders/66/66ZThk93F64EARjVB3Atpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProjekt1_Prefix-aueefswzyrimupegljxqqdmsflpb/TestProjekt1_Prefix.pch -c /Users/lucas/Documents/TestProjekt1/Classes/TestProjekt1ViewController.m -o /Users/lucas/Documents/TestProjekt1/build/TestProjekt1.build/Debug-iphonesimulator/TestProjekt1.build/Objects-normal/i386/TestProjekt1ViewController.o0#
-
-CCompileC build/TestProjekt1.build/Debug-iphonesimulator/TestProjekt1.build/Objects-normal/i386/main.o /Users/lucas/Documents/TestProjekt1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s298665176.653910
-e298665176.721862
-r1
-xCompileC
-xbuild/TestProjekt1.build/Debug-iphonesimulator/TestProjekt1.build/Objects-normal/i386/main.o
-x/Users/lucas/Documents/TestProjekt1/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@50"Compile /Users/lucas/Documents/TestProjekt1/main.m298665176#298665176#0(0"0(0#0#42"/Users/lucas/Documents/TestProjekt1/main.m4300911832#1926"    cd /Users/lucas/Documents/TestProjekt1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/lucas/Documents/TestProjekt1/build/TestProjekt1.build/Debug-iphonesimulator/TestProjekt1.build/TestProjekt1-generated-files.hmap -I/Users/lucas/Documents/TestProjekt1/build/TestProjekt1.build/Debug-iphonesimulator/TestProjekt1.build/TestProjekt1-own-target-headers.hmap -I/Users/lucas/Documents/TestProjekt1/build/TestProjekt1.build/Debug-iphonesimulator/TestProjekt1.build/TestProjekt1-all-target-headers.hmap -iquote /Users/lucas/Documents/TestProjekt1/build/TestProjekt1.build/Debug-iphonesimulator/TestProjekt1.build/TestProjekt1-project-headers.hmap -F/Users/lucas/Documents/TestProjekt1/build/Debug-iphonesimulator -I/Users/lucas/Documents/TestProjekt1/build/Debug-iphonesimulator/include -I/Users/lucas/Documents/TestProjekt1/build/TestProjekt1.build/Debug-iphonesimulator/TestProjekt1.build/DerivedSources/i386 -I/Users/lucas/Documents/TestProjekt1/build/TestProjekt1.build/Debug-iphonesimulator/TestProjekt1.build/DerivedSources -include /var/folders/66/66ZThk93F64EARjVB3Atpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProjekt1_Prefix-aueefswzyrimupegljxqqdmsflpb/TestProjekt1_Prefix.pch -c /Users/lucas/Documents/TestProjekt1/main.m -o /Users/lucas/Documents/TestProjekt1/build/TestProjekt1.build/Debug-iphonesimulator/TestProjekt1.build/Objects-normal/i386/main.o0#
-
-CCompileXIB /Users/lucas/Documents/TestProjekt1/MainWindow.xib
-s298665173.720192
-e298665175.448308
-r1
-xCompileXIB
-x/Users/lucas/Documents/TestProjekt1/MainWindow.xib
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-lSLF07#2@25"CompileXIB MainWindow.xib298665173#298665175#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#50"/Users/lucas/Documents/TestProjekt1/MainWindow.xib4300911832#478"    cd /Users/lucas/Documents/TestProjekt1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/lucas/Documents/TestProjekt1/build/Debug-iphonesimulator/TestProjekt1.app/MainWindow.nib /Users/lucas/Documents/TestProjekt1/MainWindow.xib0#
-
-CCompileXIB /Users/lucas/Documents/TestProjekt1/TestProjekt1ViewController.xib
-s298665173.720966
-e298665175.447698
-r1
-xCompileXIB
-x/Users/lucas/Documents/TestProjekt1/TestProjekt1ViewController.xib
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-lSLF07#2@41"CompileXIB TestProjekt1ViewController.xib298665173#298665175#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#66"/Users/lucas/Documents/TestProjekt1/TestProjekt1ViewController.xib4300911832#510"    cd /Users/lucas/Documents/TestProjekt1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/lucas/Documents/TestProjekt1/build/Debug-iphonesimulator/TestProjekt1.app/TestProjekt1ViewController.nib /Users/lucas/Documents/TestProjekt1/TestProjekt1ViewController.xib0#
-
-CGenerateDSYMFile /Users/lucas/Documents/TestProjekt1/build/Debug-iphonesimulator/TestProjekt1.app.dSYM /Users/lucas/Documents/TestProjekt1/build/Debug-iphonesimulator/TestProjekt1.app/TestProjekt1
-s298665177.051478
-e298665177.094305
-r1
-xGenerateDSYMFile
-x/Users/lucas/Documents/TestProjekt1/build/Debug-iphonesimulator/TestProjekt1.app.dSYM
-x/Users/lucas/Documents/TestProjekt1/build/Debug-iphonesimulator/TestProjekt1.app/TestProjekt1
-lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/TestProjekt1.app.dSYM build/Debug-iphonesimulator/TestProjekt1.app/TestProjekt1298665177#298665177#0(0"0(0#0#93"/Users/lucas/Documents/TestProjekt1/build/Debug-iphonesimulator/TestProjekt1.app/TestProjekt14300911832#389"    cd /Users/lucas/Documents/TestProjekt1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/lucas/Documents/TestProjekt1/build/Debug-iphonesimulator/TestProjekt1.app/TestProjekt1 -o /Users/lucas/Documents/TestProjekt1/build/Debug-iphonesimulator/TestProjekt1.app.dSYM0#
-
-CLd /Users/lucas/Documents/TestProjekt1/build/Debug-iphonesimulator/TestProjekt1.app/TestProjekt1 normal i386
-s298665176.776629
-e298665177.051299
-r1
-xLd
-x/Users/lucas/Documents/TestProjekt1/build/Debug-iphonesimulator/TestProjekt1.app/TestProjekt1
-xnormal
-xi386
-lSLF07#2@98"Link /Users/lucas/Documents/TestProjekt1/build/Debug-iphonesimulator/TestProjekt1.app/TestProjekt1298665176#298665177#0(0"0(0#0#0"4300911832#874"    cd /Users/lucas/Documents/TestProjekt1    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/lucas/Documents/TestProjekt1/build/Debug-iphonesimulator -F/Users/lucas/Documents/TestProjekt1/build/Debug-iphonesimulator -filelist /Users/lucas/Documents/TestProjekt1/build/TestProjekt1.build/Debug-iphonesimulator/TestProjekt1.build/Objects-normal/i386/TestProjekt1.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/lucas/Documents/TestProjekt1/build/Debug-iphonesimulator/TestProjekt1.app/TestProjekt10#
-
-CProcessInfoPlistFile /Users/lucas/Documents/TestProjekt1/build/Debug-iphonesimulator/TestProjekt1.app/Info.plist TestProjekt1-Info.plist
-s298665173.702440
-e298665173.720105
-r1
-xProcessInfoPlistFile
-x/Users/lucas/Documents/TestProjekt1/build/Debug-iphonesimulator/TestProjekt1.app/Info.plist
-xTestProjekt1-Info.plist
-lSLF07#2@31"Process TestProjekt1-Info.plist298665173#298665173#0(0"0(0#0#59"/Users/lucas/Documents/TestProjekt1/TestProjekt1-Info.plist4300911832#485"    cd /Users/lucas/Documents/TestProjekt1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TestProjekt1-Info.plist -genpkginfo /Users/lucas/Documents/TestProjekt1/build/Debug-iphonesimulator/TestProjekt1.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/lucas/Documents/TestProjekt1/build/Debug-iphonesimulator/TestProjekt1.app/Info.plist0#
-
-CProcessPCH /var/folders/66/66ZThk93F64EARjVB3Atpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProjekt1_Prefix-aueefswzyrimupegljxqqdmsflpb/TestProjekt1_Prefix.pch.gch TestProjekt1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s298665175.448410
-e298665176.653773
-r1
-xProcessPCH
-x/var/folders/66/66ZThk93F64EARjVB3Atpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProjekt1_Prefix-aueefswzyrimupegljxqqdmsflpb/TestProjekt1_Prefix.pch.gch
-xTestProjekt1_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@34"Precompile TestProjekt1_Prefix.pch298665175#298665176#0(0"0(0#0#59"/Users/lucas/Documents/TestProjekt1/TestProjekt1_Prefix.pch4300911832#1816"    cd /Users/lucas/Documents/TestProjekt1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/lucas/Documents/TestProjekt1/build/TestProjekt1.build/Debug-iphonesimulator/TestProjekt1.build/TestProjekt1-generated-files.hmap -I/Users/lucas/Documents/TestProjekt1/build/TestProjekt1.build/Debug-iphonesimulator/TestProjekt1.build/TestProjekt1-own-target-headers.hmap -I/Users/lucas/Documents/TestProjekt1/build/TestProjekt1.build/Debug-iphonesimulator/TestProjekt1.build/TestProjekt1-all-target-headers.hmap -iquote /Users/lucas/Documents/TestProjekt1/build/TestProjekt1.build/Debug-iphonesimulator/TestProjekt1.build/TestProjekt1-project-headers.hmap -F/Users/lucas/Documents/TestProjekt1/build/Debug-iphonesimulator -I/Users/lucas/Documents/TestProjekt1/build/Debug-iphonesimulator/include -I/Users/lucas/Documents/TestProjekt1/build/TestProjekt1.build/Debug-iphonesimulator/TestProjekt1.build/DerivedSources/i386 -I/Users/lucas/Documents/TestProjekt1/build/TestProjekt1.build/Debug-iphonesimulator/TestProjekt1.build/DerivedSources -c /Users/lucas/Documents/TestProjekt1/TestProjekt1_Prefix.pch -o /var/folders/66/66ZThk93F64EARjVB3Atpk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TestProjekt1_Prefix-aueefswzyrimupegljxqqdmsflpb/TestProjekt1_Prefix.pch.gch0#
-
-CTouch /Users/lucas/Documents/TestProjekt1/build/Debug-iphonesimulator/TestProjekt1.app
-s298665177.094395
-e298665177.097117
-r1
-xTouch
-x/Users/lucas/Documents/TestProjekt1/build/Debug-iphonesimulator/TestProjekt1.app
-lSLF07#2@86"Touch /Users/lucas/Documents/TestProjekt1/build/Debug-iphonesimulator/TestProjekt1.app298665177#298665177#0(0"0(0#0#0"4300911832#277"    cd /Users/lucas/Documents/TestProjekt1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/lucas/Documents/TestProjekt1/build/Debug-iphonesimulator/TestProjekt1.app0#
-
